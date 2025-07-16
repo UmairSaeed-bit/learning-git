@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 33px;
+    border-radius: 33px;
+    border: 2px solid red;
+}
+header, main, footer{
+    padding: 10px, 44px;
+
+}
