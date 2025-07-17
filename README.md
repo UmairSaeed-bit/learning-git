@@ -34,6 +34,23 @@ paste special dialigue box ---- Ctrl + alt + V
 center row ---- shift + space
 move one screeen tioright   ---- shift + lift / Right arrow
 
+move top/bottom cell in colum ----- Ctrl + up/ down arrow
+previous selected cell ----- shift  + Tab
+visual basic editor ------ Alt + f11
+switch betwen worksheet ------ shift  + Tab
+formula tab ---- alt + M
+Add - ins tab ---- alt + X
+hide selected column ---- ctrl + o
+add boarder ---- alt + h +B
+edit cell coment ---- shift + f2
+calculate actuve worksheet ---- shift + f9
+apply percent formula ---- ctrl+ shift + %
+cell delete -------- alt + h + d + c
+paste special dialoge box -- strl + alt + v
+
+
+
+
 
 = if("p";1),if "A"; 0
 
