@@ -2,7 +2,7 @@ git add --all
 git restore --staged index.html
 
 
-
+just checking push and pull
 
 center --- ctrl + e
 subscrept --- ctrl + =
